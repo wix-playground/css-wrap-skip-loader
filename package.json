@@ -1,0 +1,24 @@
+{
+  "name": "css-wrap-loader",
+  "version": "1.0.0",
+  "description": "CSS Wrap loader for Webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaowlert/css-wrap-loader.git"
+  },
+  "keywords": [
+    "css-wrap",
+    "loader"
+  ],
+  "author": "Chaowlert Chaisrichalermpol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaowlert/css-wrap-loader/issues"
+  },
+  "homepage": "https://github.com/chaowlert/css-wrap-loader#readme",
+  "dependencies": {
+    "css-wrap": "^0.1.0",
+    "loader-utils": "^0.2.16"
+  }
+}
