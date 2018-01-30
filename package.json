@@ -1,11 +1,11 @@
 {
-  "name": "css-wrap-loader",
+  "name": "css-wrap-skip-loader",
   "version": "1.0.0",
-  "description": "CSS Wrap loader for Webpack",
+  "description": "CSS Wrap loader for Webpack with skip option",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chaowlert/css-wrap-loader.git"
+    "url": "git+https://github.com/wix/css-wrap-skip-loader.git"
   },
   "keywords": [
     "css-wrap",
@@ -14,11 +14,11 @@
   "author": "Chaowlert Chaisrichalermpol",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chaowlert/css-wrap-loader/issues"
+    "url": "https://github.com/wix/css-wrap-skip-loader/issues"
   },
-  "homepage": "https://github.com/chaowlert/css-wrap-loader#readme",
+  "homepage": "https://github.com/wix/css-wrap-skip-loader#readme",
   "dependencies": {
-    "css-wrap": "^0.1.0",
+    "css-wrap": "AlexMarvelo/css-wrap#v0.2.0",
     "loader-utils": "^0.2.16"
   }
 }
